@@ -1,0 +1,38 @@
+# Dependências do Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Arquivos de build/produção
+dist/
+build/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Cache do npm
+npm-cache/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Cobertura de testes
+coverage/
+
+# Arquivos do editor
+.vscode/
+.idea/
+*.sublime*
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
