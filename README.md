@@ -8,7 +8,7 @@ Uma API RESTful simples para gerenciar uma lista de tarefas, construída com Nod
 - **Atualizar uma tarefa** (`PUT /tarefas/:id`) 🔄
 - **Deletar uma tarefa** (`DELETE /tarefas/:id`) 🗑️
 
-Os dados são armazenados em memória (array) para simplicidade.
+Os dados são armazenados em memória (array).
 
 ## 📂 Estrutura do Projeto
 ```
